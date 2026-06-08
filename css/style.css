@@ -192,19 +192,20 @@ position: absolute;
 
 #q2 {
     position: relative;
-    left: 20vw;
+    left: 25vw;
         top: 26.2vh;
          border: 10px solid rgb(195, 0, 255);
     border-radius: 10px;
     transition: 1s ease;
 }
 
+
 #q2:hover{
     transform: scale(0.1);
 }
 #q3 {
     position: relative;
-    left: 26vw;
+    left: 30vw;
         top: 26.2vh;
          border: 10px solid rgb(195, 0, 255);
     border-radius: 10px;
