@@ -191,8 +191,8 @@ position: absolute;
 }
 
 #q2 {
-    position: relative;
-    left: 25vw;
+    position: absolute;
+    left: 26vw;
         top: 26.2vh;
          border: 10px solid rgb(195, 0, 255);
     border-radius: 10px;
@@ -204,7 +204,7 @@ position: absolute;
     transform: scale(0.1);
 }
 #q3 {
-    position: relative;
+    position: absolute;
     left: 30vw;
         top: 26.2vh;
          border: 10px solid rgb(195, 0, 255);
