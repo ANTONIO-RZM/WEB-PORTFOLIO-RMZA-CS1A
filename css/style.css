@@ -191,7 +191,7 @@ position: absolute;
 }
 
 #q2 {
-    position: absolute;
+    position: relative;
     left: 20vw;
         top: 26.2vh;
          border: 10px solid rgb(195, 0, 255);
@@ -203,7 +203,7 @@ position: absolute;
     transform: scale(0.1);
 }
 #q3 {
-    position: absolute;
+    position: relative;
     left: 26vw;
         top: 26.2vh;
          border: 10px solid rgb(195, 0, 255);
